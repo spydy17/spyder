@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @shivamingale
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning B-Tech cse with cyber security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Hacking for fun
+# 👋 Hi I'm Shivam Ingale!
 
-<!---
-shivamingale/shivamingale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+
+* 🔐 Interested in Cybersecurity, VAPT and Network Security
+* 🌱 Currently learning Web Security, Networking and Linux
+* 🐍 Working with Python and security tools
+* 🚀 Building practical cybersecurity projects
+
+### 🛠️ Tools & Technologies
+
+`Python` `Linux` `Git` `Nmap` `Wireshark` `Burp Suite` `SQLMap` `Metasploit`
+
+### 🚀 Projects
+
+* 🛡️ [ReconX](https://github.com/shivamingale/ReconX) — Python-based reconnaissance framework
+* 💻 [EliteTech-Intern](https://github.com/shivamingale/EliteTech-Intern) — Cybersecurity internship projects
+
+### 📫 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/shivam-ingale-499640218/)
